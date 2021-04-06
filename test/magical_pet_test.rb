@@ -1,6 +1,6 @@
 require 'minitest/autorun'
 require 'minitest/pride'
-require './lib/magical_pet'
+require '../lib/magical_pet'
 
 class MagicalPetTest < Minitest::Test
 
